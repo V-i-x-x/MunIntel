@@ -37,7 +37,7 @@ sideChannel proc
 
 	lfence
 
-	sub rax, r9
+	sub rdx, r9
 
 	ret
 
